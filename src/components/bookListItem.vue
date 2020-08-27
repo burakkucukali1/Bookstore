@@ -2,7 +2,7 @@
   <div class="bookItem d-flex justify-content-between border px-3 mb-3">
     <div class="d-flex justify-content-start pt-3 pb-3">
       <div class>
-        <img class="rounded w-100" src="https://via.placeholder.com/150/92c952" alt />
+        <img class="rounded w-100" src="https://via.placeholder.com/150/771796" alt />
       </div>
       <div class="d-flex flex-column ml-2">
         <h3>{{ bookName }}</h3>
@@ -46,7 +46,7 @@ export default {
     }),
     confirmation() {
       if (confirm(`Are you sure you want to delete the ${this.bookName}`)) {
-        this.$emit("delete-book") // silip dene
+        this.$emit("delete-book")
           this.$toast(`${this.bookName} deleted.`);
       } else {
         return false;

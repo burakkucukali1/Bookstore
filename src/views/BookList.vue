@@ -21,7 +21,7 @@
             :inStore="item.inStore"
             :bookName="item.bookName"
             :author="item.author"
-            :imgUrl="item.ImgUrl"
+            :imgUrl="item.imgUrl"
             @delete-book="deleteBook(item.bookId)"
           />
         </div>

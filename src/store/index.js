@@ -15,7 +15,7 @@ export default new Vuex.Store({
         bookId: 1,
         bookName: "Çalıkuşu",
         author: "Reşat Nuri Güntekin",
-        ImgUrl: "https://via.placeholder.com/150/771796",
+        imgUrl: "https://via.placeholder.com/150/771796",
         inStore: false
 
       },
@@ -23,7 +23,7 @@ export default new Vuex.Store({
         bookId: 257,
         bookName: "Sefiller",
         author: "Victor Hugo",
-        ImgUrl: "https://via.placeholder.com/150/771796",
+        imgUrl: "https://via.placeholder.com/150/771796",
         inStore: true
 
       },
@@ -31,21 +31,21 @@ export default new Vuex.Store({
         bookId: 3,
         bookName: "Suç ve Ceza",
         author: "Dostoyevski",
-        ImgUrl: "https://via.placeholder.com/150/771796",
+        imgUrl: "https://via.placeholder.com/150/771796",
         inStore: false
       },
       {
         bookId: 4,
         bookName: "Harry Potter",
         author: "J.K. Rowling",
-        ImgUrl: "https://via.placeholder.com/150/771796",
+        imgUrl: "https://via.placeholder.com/150/771796",
         inStore: true
       },
       {
         bookId: 5,
         bookName: "Sarmal",
         author: "Murat Ağırel",
-        ImgUrl: "https://via.placeholder.com/150/771796",
+        imgUrl: "https://via.placeholder.com/150/771796",
         inStore: false
 
       },
@@ -53,7 +53,14 @@ export default new Vuex.Store({
         bookId: 6,
         bookName: "Kürk Mantolu Madonna",
         author: "Sabahattin Ali",
-        ImgUrl: "https://via.placeholder.com/150/771796",
+        imgUrl: "https://via.placeholder.com/150/771796",
+        inStore: true
+      },
+      {
+        bookId: 77,
+        bookName: "VueJS'in İncelikleri",
+        author: "Mustafa Demir",
+        imgUrl: "https://via.placeholder.com/150/771796",
         inStore: true
       }
     ],
