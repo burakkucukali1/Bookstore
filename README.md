@@ -1,7 +1,7 @@
 # # BOOKSTORE VUE.JS (frontend)
 
+![4cuz8t](https://user-images.githubusercontent.com/51200138/91372100-6d13da00-e81b-11ea-94f9-d8b5fa7e3165.gif)
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4cuz8t"></iframe></div><p><a href="https://imgflip.com/gif/4cuz8t">via Imgflip</a></p></div>
 
 ### Features
 <hr>
